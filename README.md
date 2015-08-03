@@ -7,7 +7,6 @@ It will try to unmount the resource given to it, but will fail if the resource i
 
 ===
 
-
 # Compatibility
 ---------------
 This module has been tested on the following systems.
